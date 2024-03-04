@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class PowerShellShell {
+public class main {
     public static void main(String[] args) {
         System.out.println("FireShell – Command-based shell for Java");
         System.out.println("Type 'exit' to quit");
